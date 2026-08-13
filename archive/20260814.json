@@ -1,0 +1,45 @@
+{
+  "keyword": "취업시장과 AI",
+  "sort": "date",
+  "period_start": "2026-08-13",
+  "period_end": "2026-08-14",
+  "total_collected": 6,
+  "insight_count": 4,
+  "insight_count_shortfall_reason": "검색 기간이 하루뿐이고 수집 기사가 6건으로 적어 근거가 약한 5번째 인사이트를 억지로 채우지 않음",
+  "clusters": [
+    {
+      "title": "AI가 지우는 신입 업무 vs 정책 괴리",
+      "article_count": 2,
+      "media_count": 2,
+      "is_insight": true,
+      "importance": 2
+    },
+    {
+      "title": "전공의 희비 역전",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 2
+    },
+    {
+      "title": "한국행을 택하는 외국인 전문인력",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 2
+    },
+    {
+      "title": "대구권 청년 AI 실무교육 확산",
+      "article_count": 2,
+      "media_count": 2,
+      "is_insight": true,
+      "importance": 1
+    }
+  ],
+  "insight_titles": [
+    "AI가 신입 업무부터 지운다 — 'AI 인재 20만' 정책과 현장 체감의 괴리",
+    "전공의 희비가 뒤집혔다 — '취업 보증수표'였던 코딩전공도 AI 앞에서 흔들린다",
+    "AI·반도체 호황이 한국을 '외국인 인재가 오고 싶은 나라'로 바꾸는 중",
+    "대구권 지자체들, 청년 AI 실무교육·재도전 프로그램을 잇달아 내놓다"
+  ]
+}
