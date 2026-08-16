@@ -1,0 +1,56 @@
+{
+  "keyword": "취업시장과 AI",
+  "sort": "date",
+  "period_start": "2026-08-14",
+  "period_end": "2026-08-17",
+  "total_collected": 17,
+  "excluded_off_topic": 2,
+  "insight_count": 5,
+  "clusters": [
+    {
+      "title": "청년 취업자 19만명 감소, AI 고노출 업종에 집중",
+      "article_count": 10,
+      "media_count": 10,
+      "is_insight": true,
+      "importance": 3
+    },
+    {
+      "title": "AI 활용력이 취업 경쟁력이 되다",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 2
+    },
+    {
+      "title": "'짠테크 취준' 확산",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 2
+    },
+    {
+      "title": "문과생의 AI 진로 전환, 전공 공식 흔들림 지속",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 2
+    },
+    {
+      "title": "청년·경력단절여성 대상 AI 실무교육 확대",
+      "article_count": 2,
+      "media_count": 2,
+      "is_insight": true,
+      "importance": 1
+    }
+  ],
+  "insight_titles": [
+    "청년 취업자 19만명 급감, 절반은 'AI 고노출 업종'에서 — 정부는 \"일시적 조정\" 신중론",
+    "\"자소서보다 AI 활용력\" — NCS 평가항목에도 편입, 취업 경쟁력의 기준이 바뀐다",
+    "'짠테크 취준' 확산 — 정부 지원금 인상과 무료 AI 도구가 유료 컨설팅을 밀어낸다",
+    "문과생의 'AI 진로 전환' 가속 — '컴공=취업 보증' 공식은 여전히 흔들리는 중",
+    "기업·대학, 청년·경력단절여성 대상 AI 실무교육을 잇달아 내놓다"
+  ],
+  "continuity_notes": [
+    "8/14 발행 '전공의 희비 역전' 인사이트가 8/17 '문과생의 AI 진로 전환' 인사이트로 이어짐"
+  ]
+}
