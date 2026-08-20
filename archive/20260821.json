@@ -1,0 +1,63 @@
+{
+  "keyword": "취업시장과 AI",
+  "sort": "date",
+  "period_start": "2026-08-20",
+  "period_end": "2026-08-21",
+  "total_collected": 6,
+  "excluded_off_topic": 1,
+  "insight_count": 5,
+  "clusters": [
+    {
+      "title": "벤처투자 역대 최대 8.9조…AI·반도체 스타트업 채용 확대",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 2
+    },
+    {
+      "title": "AI 데이터센터발 전력수요가 해외플랜트 수주 169% 급증 견인",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 2
+    },
+    {
+      "title": "중국 청년 실업률 20% 돌파 위기",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 3
+    },
+    {
+      "title": "구직자들의 이력서 'AI 스펙' 과장 확산",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 3
+    },
+    {
+      "title": "AI, 신규채용 축소로 노동시장 압박 — 콜센터·신입직 타격",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 3
+    },
+    {
+      "title": "[부산·경남 대학 브리핑 모음] 지역 대학 소식 로드업",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false
+    }
+  ],
+  "insight_titles": [
+    "상반기 벤처투자 역대 최대 8.9조원, AI 주도 ICT서비스가 최대 비중 — 채용시장에 긍정 신호",
+    "AI 데이터센터발 전력수요가 해외플랜트 수주 169% 급증 견인 — 관련 인력수요 확대, 단 북미행은 비자 리스크",
+    "중국 청년실업률 20% 육박 — 제조업의 AI·자동화 전환이 구조적 원인으로 지목",
+    "\"AI 경험 있습니다\" — 이력서에 뒤늦게 AI 스펙 끼워 넣는 구직자 급증",
+    "AI, 해고 대신 '신규채용 축소'로 노동시장 압박 — 美 콜센터 고용 장기추세 대비 39%↓, 신입직 타격 가장 커"
+  ],
+  "continuity_notes": [
+    "8/17~8/18 발행에서 다룬 '한국 청년의 AI발 고용위축(19만명→28.5만명 감소, 94% AI 고노출 업종 집중)'이 8/21 발행에서는 중국(청년실업률 20% 육박)·미국·캐나다·독일(콜센터 고용 장기추세 대비 27~39%↓) 등 해외 사례로 확장되며, 같은 흐름이 여러 국가에서 동시에 관측되는 구조적 현상임을 뒷받침"
+  ],
+  "structure_note": "수집 6건 중 대학 브리핑 모음 1건은 연관성이 낮아 제외. 남은 5건은 서로 다른 이슈라 클러스터가 모두 매체 1개짜리 '단신'이었지만, 원문 확인 결과 5건 모두 원인·변화·함의를 갖춰 인사이트 최소 기준(5개)을 그대로 충족"
+}
