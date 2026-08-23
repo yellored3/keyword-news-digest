@@ -1,0 +1,101 @@
+{
+  "keyword": "취업시장과 AI",
+  "sort": "date",
+  "period_start": "2026-08-21",
+  "period_end": "2026-08-23",
+  "total_collected": 13,
+  "excluded_off_topic": 4,
+  "context_not_promoted": 3,
+  "insight_count": 5,
+  "clusters": [
+    {
+      "title": "[인공지능 줌인] \"AI가 인력 대체\" 과시하던 빅테크…고용 불안 커지자",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 3
+    },
+    {
+      "title": "명문대도 취업 비상…\"AI 활용력 키워줘야\" / AI시대 학과 간 벽 허물어 융합인재 양성해야",
+      "article_count": 2,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 3
+    },
+    {
+      "title": "AI가 대학 교육 망친다? 싱가포르 명문대 'AI 전면 도입' 승부수",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 2
+    },
+    {
+      "title": "\"덕분에 42억 초호화 결혼식 참여했죠\"…SNS로 눈도장 찍는 美 취준생",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 2
+    },
+    {
+      "title": "\"매출 14.6배·기업가치 2조 달러\" 앤트로픽, 이달 IPO 신청",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 2
+    },
+    {
+      "title": "친구 만나기도, 집 구하기도, 취업도 어렵다…청년 삶 옥죄는 '3중고'",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false
+    },
+    {
+      "title": "\"AI시대는 전혀 다른 게임\"…억만장자들도 Z세대 자녀 걱정",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false
+    },
+    {
+      "title": "\"mRNA 암백신, 임상 3상 첫 성공\"…바이오 채용 지형 바뀐다",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false
+    },
+    {
+      "title": "제주 관광지표 심상치 않다",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false
+    },
+    {
+      "title": "박찬대 인천시장 졸업식 축사",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false
+    },
+    {
+      "title": "특수학교 고교 취업자 10명 중 8명 '월 150만원 미만' 저임금",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false
+    },
+    {
+      "title": "KDI, 반도체 호황에 올해 성장률 3.2%로 상향",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false
+    }
+  ],
+  "insight_titles": [
+    "AI, 미국 빅테크 감원 사유 7월까지 5개월 연속 1위 — 올해 감축의 약 24%가 AI발",
+    "대졸 실업자 48만명 돌파, 최근 사라진 청년일자리 98.6%가 AI 대체가능권 — \"학교 간판의 종말\"",
+    "싱가포르 NUS·NTU, AI 전면 도입 승부수 — 2030년까지 교육과정 40%에 AI 반영",
+    "이력서 대신 틱톡 — 美 Z세대 46% \"SNS로 취업·인턴십 구했다\", AI 서류 필터 우회 전략",
+    "앤트로픽, 2조달러 기업가치로 이달 IPO 신청 — 매출 전년비 14.6배 급증"
+  ],
+  "continuity_notes": [
+    "8/17~8/21 발행에서 다룬 '한국 청년의 AI발 고용위축'이 이번 편에서도 국내 대졸 취업난(청년일자리 21.1만개 감소, AI 대체가능 98.6%) 및 싱가포르 대학의 AI 전면 도입 대응으로 이어짐. 다만 이번에 인용된 21.1만개/98.6% 수치는 8/18 발행에서 인용한 19만→28.5만명/94% 수치와 세부 산정 기준이 달라 원자료 대조가 필요함을 뉴스레터 본문에 명시함.",
+    "8/21 발행에서 다룬 '美 콜센터 등 신규채용 축소'와 이번 편의 '美 빅테크 5개월 연속 AI발 감원 1위'가 같은 흐름(AI로 인한 미국 고용시장 압박 지속)의 최신 데이터로 연결됨."
+  ],
+  "structure_note": "수집 13건 중 4건(제주 관광지표, 인천시장 졸업식 축사, 특수학교 저임금, KDI 성장률 전망)은 AI·취업시장 연관성이 낮아 제외. 3건(억만장자 Z세대 자녀 걱정, 청년 3중고, mRNA 바이오 채용)은 주제 관련성은 있으나 AI-취업시장 연관성이 간접적이라 인사이트로 승격하지 않고 본문 note에 맥락만 언급. 나머지 6건(2건은 같은 매체의 동일 시간대 연속 기사로 1개 클러스터 병합)에서 최종 인사이트 5건을 선정, 최소 기준(5개)을 충족."
+}
