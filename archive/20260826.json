@@ -1,0 +1,72 @@
+{
+  "keyword": "취업시장과 AI",
+  "sort": "date",
+  "period_start": "2026-08-25",
+  "period_end": "2026-08-25",
+  "total_collected": 8,
+  "excluded_off_topic": 0,
+  "context_not_promoted": 2,
+  "insight_count": 5,
+  "clusters": [
+    {
+      "title": "AI 활용능력으로 재편되는 취업시장 / KT 대졸 신입채용 2배 확대",
+      "article_count": 2,
+      "media_count": 2,
+      "is_insight": true,
+      "importance": 3
+    },
+    {
+      "title": "[2026년 노동] 임금 일자리 20대 이하만 감소, 60대 대폭 증가",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 3
+    },
+    {
+      "title": "\"대학 나와도 학자금 빚만…\" 엘리트 청년들 돌변한 이유가 (英 견습직 전환)",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 2
+    },
+    {
+      "title": "우리금융 8개 계열사 나서 청년 금융IT 인재 키운다…60명 실무교육",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 2
+    },
+    {
+      "title": "전재수, 초고령 부산 해법 '일자리'서 찾는다…5200명 확대",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 2
+    },
+    {
+      "title": "\"청년층 '빚투' 사회적 문제 우려…금융지식 익히도록 지원해야\"",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false
+    },
+    {
+      "title": "잡코리아 새 얼굴에 박정민…\"취업·이직의 '다음' 함께한다\"",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false
+    }
+  ],
+  "insight_titles": [
+    "대기업 채용, \"AI를 아는가\"에서 \"AI로 현업 문제를 푸는가\"로 평가축 전환 — KT·SK하이닉스·삼성전자 동시 개편",
+    "2026년 1분기 임금일자리, 20대 이하 14분기 연속 감소 vs 60대 이상 6.2% 급증",
+    "영국 엘리트 청년들, 대학 대신 견습직행 — AI발 대졸 채용 위축이 글로벌 확산 신호",
+    "우리금융 8개 계열사, 청년 60명 대상 금융IT 인재육성 프로그램 가동",
+    "부산시, 노인일자리 등 5200명 확대 — 60대 일자리 급증 흐름의 지자체 실행 사례"
+  ],
+  "continuity_notes": [
+    "8/24 발행의 '학벌보다 AI 활용 포트폴리오' 흐름이 이번 편에서 KT·SK하이닉스·삼성전자의 구체적 채용·평가 제도 개편 사례로 이어짐(신규 등장이라기보다 흐름의 구체화).",
+    "8/24 발행에서 인용한 '청년일자리 21.1만개 감소, 98.6% AI 대체가능권' 수치가 이번 편의 '20대 일자리 14분기 연속 감소, 1분기 7.6만개 감소' 최신 분기 데이터로 이어져 같은 구조적 흐름이 지속되고 있음을 확인함.",
+    "이번 편 내부에서도 '20대 감소·60대 급증' 전국 통계(②)와 '부산 노인일자리 5200명 확대'(⑤)가 원인-실행 사례로 연결됨."
+  ],
+  "structure_note": "수집 8건 중 청년 '빚투' 금융리스크 기사와 잡코리아 캠페인 모델 발탁 기사 2건은 AI·취업시장과의 인과관계가 간접적이거나 무관해 인사이트로 승격하지 않았습니다. 나머지 6건(2건은 KT/AI채용 관련 별도 매체 보도로 1개 클러스터 병합)에서 최종 인사이트 5건을 선정해 최소 기준(5개)을 충족했습니다."
+}
