@@ -1,0 +1,72 @@
+{
+  "keyword": "취업시장과 AI",
+  "sort": "date",
+  "period_start": "2026-08-26",
+  "period_end": "2026-08-26",
+  "total_collected": 12,
+  "excluded_off_topic": 0,
+  "context_not_promoted": 2,
+  "insight_count": 5,
+  "clusters": [
+    {
+      "title": "넥슨 '넥토리얼', 코딩테스트 전면 폐지 — AI 활용 역량평가로 전환",
+      "article_count": 4,
+      "media_count": 4,
+      "is_insight": true,
+      "importance": 3
+    },
+    {
+      "title": "AI 실무역량 평가 도구 시장 형성 — 진학사 캐치 'CATCH-UP AX 직무역량검사'",
+      "article_count": 3,
+      "media_count": 3,
+      "is_insight": true,
+      "importance": 3
+    },
+    {
+      "title": "대구시, '청춘 JOB-GO 잡고' 취업 캠프 운영 — 미취업청년 40명 대상 AI 실전교육",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 2
+    },
+    {
+      "title": "대구대, AI·클라우드 자격증(AZ-900) 결합형 취업역량 캠프 운영",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 2
+    },
+    {
+      "title": "\"공기업·대기업 뚫을 핵심 무기 푼다\"…상명대, 2026 하반기 취업 총력 지원",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false
+    },
+    {
+      "title": "영산대, '관광·MICE AI·빅데이터' 교육으로 전문 인재 양성",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false
+    },
+    {
+      "title": "청년 '첫 경력' 보장한다는 부산시, 기준부터 바꿔야 (오피니언)",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 2
+    }
+  ],
+  "insight_titles": [
+    "넥슨 '넥토리얼', 코딩테스트 전면 폐지 — AI면접·AI활용역량평가로 게임 프로그래머 채용기준 재편",
+    "AI 실무역량 평가 도구 시장 형성 — 진학사 캐치 'CATCH-UP AX', 세종대·원광대 등 대학 잇단 도입",
+    "대구시, '청춘 JOB-GO 잡고' 취업캠프 — AI 실무역량 훈련이 지자체 공공 취업지원까지 표준화",
+    "대구대, AZ-900 자격증과 취업특강·기업탐방을 결합한 통합형 캠프 운영 — 대학가 AI·클라우드 자격증 결합 확산",
+    "부산시 '첫경력 보장제' 실효성 논란 — 저임금·단순업무 구조가 AI시대 청년고용 확대책의 리스크로 지적"
+  ],
+  "continuity_notes": [
+    "8/26 발행(8/25 하루치)의 'AI를 아는가에서 AI로 현업 문제를 푸는가로 평가축 전환(KT·SK하이닉스·삼성전자)' 흐름이 이번 편에서는 게임업계(넥슨)로 확산되며 '코딩테스트 완전 폐지'라는 더 급진적인 형태로 구체화됨.",
+    "이번 편 내부에서도 넥슨의 자체 AI역량평가(①)가 진학사 캐치 같은 범용 표준검사 시장 형성(②)으로 이어지는 흐름을 확인함 — 개별기업 자체설계에서 외부 표준도구로 확산되는 단계.",
+    "8/24 발행에서 다룬 대학의 AI 융합인재 양성 흐름('AI시대 학과 간 벽 허물어 융합인재 양성', '싱가포르 명문대 AI 전면도입')이 이번 편에서는 국내 지자체·대학의 실전형 프로그램(대구시 JOB-GO 캠프, 대구대 AZ-900 캠프, 상명대·영산대 취업지원)으로 다수 동시 등장 — 신규 등장이라기보다 흐름의 지역·현장 단위 확산."
+  ],
+  "structure_note": "수집 12건 중 상명대·영산대 관련 2건은 대구대 사례(④)와 동일하게 '대학의 AI 연계 취업지원 프로그램 확대' 패턴을 보여주지만 개별 원인·함의가 ④와 중복돼 별도 인사이트로 승격하지 않고 맥락으로만 반영했습니다. 나머지 10건(넥슨 관련 4건, AI역량평가 관련 3건 포함)에서 최종 인사이트 5건을 선정해 최소 기준(5개)을 충족했습니다."
+}
