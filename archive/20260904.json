@@ -1,0 +1,67 @@
+{
+  "keyword": "취업시장과 AI",
+  "sort": "date",
+  "period_start": "2026-09-03",
+  "period_end": "2026-09-04",
+  "total_collected": 8,
+  "excluded_off_topic": 0,
+  "context_not_promoted": 1,
+  "insight_count": 5,
+  "insight_count_minimum": 5,
+  "clusters": [
+    {
+      "title": "넥슨, 코딩테스트 폐지하고 'AI 검증역량' 평가로 신입 채용 기준 전면 개편",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 3
+    },
+    {
+      "title": "[1997 vs 2026] 노동 경직성 + AI 대체가 겹쳐 신입 채용 축소를 구조화한다",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 3
+    },
+    {
+      "title": "지자체·여성인력개발센터의 AI 활용 취업교육, 하루 만에 3개 지역에서 동시 확산",
+      "article_count": 3,
+      "media_count": 3,
+      "is_insight": true,
+      "importance": 2
+    },
+    {
+      "title": "롯데백화점·현대모비스 등 하반기 대기업 공채 본격 개막",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 2
+    },
+    {
+      "title": "미·중 갈등發 유학 이탈, 중국 AI·이공계 특화 '중외합작' 대학으로 흡수",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 1
+    },
+    {
+      "title": "인공지능 시대 인문학 교육 기고 (의견 기사, 취업시장 연관성 낮음)",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false,
+      "importance": 0
+    }
+  ],
+  "insight_titles": [
+    "넥슨, 코딩테스트 폐지하고 'AI 검증역량' 평가로 신입 채용 기준 전면 개편",
+    "\"1997년과 다르다\" — 노동 경직성과 AI 대체가 겹쳐 신입 채용 축소를 구조화한다는 진단",
+    "지자체·여성인력개발센터의 'AI 활용 취업교육', 하루 만에 3개 지역에서 동시 확산",
+    "롯데백화점·현대모비스 등 하반기 대기업 공채 본격 개막 — SW직군은 아직 전통 코딩테스트 유지",
+    "미·중 갈등으로 유학길 막힌 중국, AI·이공계 특화 '중외합작' 대학으로 인재 양성 인프라 확충"
+  ],
+  "continuity_notes": [
+    "8/27~9/3 발행에서 회차당 1건씩 이어지던 '지자체·여성인력개발센터의 AI 활용 취업지원' 흐름이 이번 회차에는 고양·종로·동래 3개 지역에서 하루 만에 동시 확산됨 — 확산 속도가 빨라지는 신호.",
+    "그간 통계·정책 분석(한국은행, 댈러스 연은 등) 위주로만 다뤄지던 'AI가 신입 채용을 재편한다'는 스토리가 이번 회차에서 넥슨의 실제 채용 프로세스 변경(코딩테스트 폐지 → AI 검증역량 평가) 사례로 처음 구체화됨 — 신규 등장."
+  ],
+  "structure_note": "기간(9/3 00:00~9/4 00:00 KST) 내 총 8건이 수집됐다. 클러스터링 결과 6개 클러스터 중 매체 3개인 지자체·여성인력개발센터 클러스터와, 원문 검증을 거쳐 임팩트가 확인된 상위 4개 단신 클러스터를 더해 5개 인사이트를 선정했다(최소 기준 5개 충족, 억지 보강 없음). 인문학 교육 관련 기고문 1건은 원문은 확인했으나 취업시장·AI와의 직접적 연관성이 낮은 의견 기사로 판단해 인사이트로 승격하지 않았다."
+}
