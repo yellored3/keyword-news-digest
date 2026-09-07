@@ -1,0 +1,104 @@
+{
+  "keyword": "취업시장과 AI",
+  "sort": "date",
+  "period_start": "2026-09-07",
+  "period_end": "2026-09-08",
+  "total_collected": 14,
+  "excluded_off_topic": 1,
+  "context_not_promoted": 5,
+  "insight_count": 5,
+  "insight_count_minimum": 5,
+  "clusters": [
+    {
+      "title": "AI가 대체하는 초급업무 vs 부족한 숙련인력 — 대졸 신입 채용문턱, 한미 동시에 높아진다",
+      "article_count": 2,
+      "media_count": 2,
+      "is_insight": true,
+      "importance": 3
+    },
+    {
+      "title": "채용 오아시스였던 은행권, 두 달 만에 '채용 뚝' — 지방이전설이 흔든 안정직군 신화",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 3
+    },
+    {
+      "title": "'서울대 10개 만들기' + 등록금 0원, 그런데도 63.9%는 \"그래도 서울\" — 지방국립대 재편은 조짐일 뿐",
+      "article_count": 2,
+      "media_count": 2,
+      "is_insight": true,
+      "importance": 3
+    },
+    {
+      "title": "대학가, 취업률 격차 좁히기 나선다 — 동국대·동아대의 서로 다른 해법",
+      "article_count": 2,
+      "media_count": 2,
+      "is_insight": true,
+      "importance": 2
+    },
+    {
+      "title": "수출·설비투자는 급증하는데 청년 고용은 제자리 — KDI가 짚은 온도차",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 2
+    },
+    {
+      "title": "상명대, AI·시스템 공학 품은 실무 인재 양성 (게임학 박사 배출) 소개",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false,
+      "importance": 0
+    },
+    {
+      "title": "제약 레이더 — 한미약품·GC메디아이·한국바이오협회 AI 품질관리 동향",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false,
+      "importance": 0
+    },
+    {
+      "title": "\"최저임금 줄다리기 그만\" — 노동법·AI규제 동시개편 필요성 설문",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false,
+      "importance": 0
+    },
+    {
+      "title": "2027 대입 수시모집 AI 계약학과 합격선 상승 예고",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false,
+      "importance": 0
+    },
+    {
+      "title": "이병훈 산업인력공단 이사장 인터뷰 — HRD 전문기관 AI 고도화",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false,
+      "importance": 0
+    },
+    {
+      "title": "원에듀평생교육원 학점은행제 과목 개설 (돌봄통합지원법 시행)",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false,
+      "importance": 0
+    }
+  ],
+  "insight_titles": [
+    "AI가 대체하는 초급업무 vs 부족한 숙련인력 — 대졸 신입 채용문턱, 한미 동시에 높아진다",
+    "채용 오아시스였던 은행권, 두 달 만에 '채용 뚝' — 지방이전설이 흔든 안정직군 신화",
+    "'서울대 10개 만들기' + 등록금 0원, 그런데도 63.9%는 \"그래도 서울\" — 지방국립대 재편은 조짐일 뿐",
+    "대학가, 취업률 격차 좁히기 나선다 — 동국대·동아대의 서로 다른 해법",
+    "수출·설비투자는 급증하는데 청년 고용은 제자리 — KDI가 짚은 온도차"
+  ],
+  "continuity_notes": [
+    "9/1 회차에서 '금융권, AI발 취업한파 속 채용 오아시스로 부상'이라고 짚었던 은행권이, 이번 회차에는 지방이전설로 인해 '4대 은행 채용 뚝'이라는 정반대 소식으로 뒤집혔다 — 안정직군 서사가 두 달 만에 반전된 사례로 계속 추적할 가치가 있음.",
+    "9/7 회차의 '지방국립대 파격 지원' 관련 소식이 없었던 것과 달리 이번 회차에는 '서울대 10개 만들기' 정책과 등록금 0원이 결합된 구체적 수치(비수도권 지원률 63.8%→69.5%, '그래도 서울' 응답 63.9%)가 신규 등장 — 재정지원만으로는 대학서열 재편에 한계가 있다는 함의가 처음 구체화됨.",
+    "9/1·9/4 회차에서 반복됐던 '지자체·전문대의 AI 활용 취업지원 확산' 흐름이 이번 회차에는 대학 단위(동국대·동아대)의 자체 프로그램 경쟁으로 축소·이동 — 정책 주도에서 개별 대학 주도로 초점이 이동하는 조짐.",
+    "9/7 회차의 '개발자 채용 빙하기'·'Z세대 AI 위협 인식' 같은 구직자 체감형 앵글은 이번 회차에 이어지지 않음 — 언급 급감. 대신 거시경제(KDI)·산업구조(은행 지방이전) 등 구조적 요인이 새로 부각됨."
+  ],
+  "structure_note": "기간(9/7 00:00~9/8 00:00 KST, 월요일 하루치) 내 총 14건이 수집됐다. 클러스터링 결과 11개 클러스터 중 상명대 학과소개, 제약업계 AI 품질관리, 노동법·AI규제 개편 설문, 2027 AI계약학과 합격선, 산업인력공단 이사장 인터뷰 등 5건은 주제 연관성은 있으나 단일 매체·일반론 수준이라 인사이트로 승격하지 않았다(context_not_promoted=5). 원에듀평생교육원의 학점은행제 소식 1건은 돌봄통합지원법이 핵심이라 AI·취업시장과의 직접 연관성이 낮아 제외했다(excluded_off_topic=1). 나머지 5개 클러스터를 모두 인사이트로 채택했다(최소 기준 5개 충족, 억지 보강 없음). mk.co.kr·donga.com·yonhapnewstv.co.kr·n.news.naver.com 원문은 접근이 차단되어 네이버 API의 제목·스니펫 범위 내에서만 사실을 서술했고, busan.com·kmib.co.kr·newdaily.co.kr·asiae.co.kr·nocutnews.co.kr 원문은 WebFetch로 확인해 반영했다."
+}
