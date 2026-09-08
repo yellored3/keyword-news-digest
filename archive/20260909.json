@@ -1,0 +1,90 @@
+{
+  "keyword": "취업시장과 AI",
+  "sort": "date",
+  "period_start": "2026-09-08",
+  "period_end": "2026-09-09",
+  "total_collected": 16,
+  "excluded_off_topic": 1,
+  "context_not_promoted": 3,
+  "insight_count": 5,
+  "insight_count_minimum": 5,
+  "clusters": [
+    {
+      "title": "美 20년 데이터가 확인한 학위 역전 — AI가 대졸 초년생 자리를 지우는 사이 한국도 27개월째 청년고용 하락",
+      "article_count": 4,
+      "media_count": 4,
+      "is_insight": true,
+      "importance": 3
+    },
+    {
+      "title": "강남구, AI 마케팅 무료교육생 30명 모집 — 청년 리스킬링에 교육비+AI 도구비까지 지원",
+      "article_count": 5,
+      "media_count": 5,
+      "is_insight": true,
+      "importance": 2
+    },
+    {
+      "title": "GGM·기아, 하반기 채용문 활짝 — 반도체 훈풍 이어 완성차업계도 지역 채용 확대",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 2
+    },
+    {
+      "title": "농협중앙회, 학력·전공 안 보는 블라인드 채용 시작 — 관건은 AI·데이터 역량",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 2
+    },
+    {
+      "title": "대구경북 8개 대학, 벽 허물고 '하나의 취업권'으로 — 피지컬AI·반도체 인재 공동양성",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 2
+    },
+    {
+      "title": "충남도 '현직자 멘토링+AI 체험' 청년 일자리 축제 개최 소개",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false,
+      "importance": 0
+    },
+    {
+      "title": "부산 전국장애인기능경기대회 — AI 활용 신기술 특화훈련 도입 소개",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false,
+      "importance": 0
+    },
+    {
+      "title": "[서울로…청년들 '광주 탈출' 리포트] 지역 취업·창업 시장 선택지 부족 인터뷰",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false,
+      "importance": 0
+    },
+    {
+      "title": "[경제읽기] 반도체 훈풍·증시 이슈 방송 — 취업시장 언급은 질문 항목 중 일부",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false,
+      "importance": 0
+    }
+  ],
+  "insight_titles": [
+    "美 20년 데이터가 확인한 학위 역전 — AI가 대졸 초년생 자리를 지우는 사이 한국도 27개월째 청년고용 하락",
+    "강남구, AI 마케팅 무료교육생 30명 모집 — 청년 리스킬링에 교육비+AI 도구비까지 지원",
+    "GGM·기아, 하반기 채용문 활짝 — 반도체 훈풍 이어 완성차업계도 지역 채용 확대",
+    "농협중앙회, 학력·전공 안 보는 블라인드 채용 시작 — 관건은 AI·데이터 역량",
+    "대구경북 8개 대학, 벽 허물고 '하나의 취업권'으로 — 피지컬AI·반도체 인재 공동양성"
+  ],
+  "continuity_notes": [
+    "9/7 회차(9/6~9/7 대상)의 최상위 클러스터였던 'AI 대체 초급업무 vs 대졸 신입 채용문턱'이 이번 회차에도 최상위 클러스터로 재등장했다 — 다만 이번엔 WSJ·버닝글라스연구소의 20년치 데이터와 한국 노동연구원장의 코멘트('과잉투자 조정 결과'라는 신중한 해석)가 결합돼 통계적 근거가 한층 두터워졌다.",
+    "은행권 채용 흐름이 계속 요동친다 — 9/1 회차 '금융권, AI발 취업한파 속 채용 오아시스로 부상' → 9/7 회차 '지방이전설로 4대 은행 채용 뚝' → 이번 회차 '농협중앙회, 5급 블라인드 채용 신규 개시'로 은행마다 다른 방향을 가리키고 있어, '안정직군'이라는 단일 라벨로 금융권 채용을 일반화하기 어렵다는 점이 재확인됐다.",
+    "9/7 회차의 '서울대 10개 만들기'식 재정지원 중심 지방대 재편과 달리, 이번 회차에는 대구경북 8개 대학이 재정지원이 아니라 LMS 연동·공동인증·통합 취업권 설계로 연합하는 사례가 신규 등장 — 지역대학 경쟁력 강화 정책의 초점이 '개별 대학 지원'에서 '대학 간 연합 생태계'로 확장되는 조짐일 수 있다.",
+    "강남구 AI마케팅 청년교육(5개 매체 동시보도)과 GGM·기아 하반기 채용 확대는 9/7 회차에는 없었던 신규 등장 소식이다 — 지자체발 AI 리스킬링 지원과 완성차업계발 지역 채용 훈풍이 동시에 부각된 것이 이번 회차의 특징이다."
+  ],
+  "structure_note": "기간(9/8 00:00~9/9 00:00 KST, 화요일 하루치) 내 총 16건이 수집됐다. 클러스터링 결과 9개 클러스터 중 충남도 청년 일자리 축제 소개, 부산 전국장애인기능경기대회 AI 특화훈련 소개, '광주 탈출' 리포트 인터뷰 3건은 주제 연관성은 있으나 단일 매체·일반론 수준이라 인사이트로 승격하지 않았다(context_not_promoted=3). [경제읽기] 방송 1건은 반도체 증시·부동산이 핵심이고 취업시장 언급은 다섯 개 질문 중 하나에 불과해 제외했다(excluded_off_topic=1). 나머지 5개 클러스터를 모두 인사이트로 채택했다(최소 기준 5개 충족, 억지 보강 없음). joongang.co.kr(대졸/비대졸 역전 관련 호주·중국 통계)과 jndn.com(GGM·기아 채용) 원문은 접근이 차단되어 네이버 API의 제목·스니펫 범위 내에서만 사실을 서술했고, khan.co.kr·ppss.kr·asiae.co.kr·pennmike.com·lcnews.co.kr·imaeil.com 원문은 WebFetch로 확인해 반영했다."
+}
