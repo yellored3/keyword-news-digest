@@ -1,0 +1,77 @@
+{
+  "keyword": "취업시장과 AI",
+  "sort": "date",
+  "period_start": "2026-09-09",
+  "period_end": "2026-09-10",
+  "total_collected": 12,
+  "excluded_off_topic": 1,
+  "context_not_promoted": 0,
+  "insight_count": 6,
+  "insight_count_minimum": 5,
+  "clusters": [
+    {
+      "title": "대졸 프리미엄 역전 — 코리아타임스·중앙일보 동시에 '비대졸 약진' 짚어",
+      "article_count": 2,
+      "media_count": 2,
+      "is_insight": true,
+      "importance": 3
+    },
+    {
+      "title": "전체 고용률 63.3%로 역대 최고, 20대 실업률은 5.5%로 상승 — 세대별 양극화",
+      "article_count": 2,
+      "media_count": 2,
+      "is_insight": true,
+      "importance": 3
+    },
+    {
+      "title": "신한은행 자소서 폐지·AI면접 통합 vs 삼성 70년 정기공채 고수",
+      "article_count": 2,
+      "media_count": 2,
+      "is_insight": true,
+      "importance": 2
+    },
+    {
+      "title": "청년 고용정책 대상 29→34세 확대 시행",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 2
+    },
+    {
+      "title": "기아·GGM AI검증 채용, 영남이공대·LS증권 실무형 프로그램 소규모 확산",
+      "article_count": 3,
+      "media_count": 3,
+      "is_insight": true,
+      "importance": 1
+    },
+    {
+      "title": "미국 '부메랑 직원' 증가 — 재입사 비중 3.4%로 상승",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 1
+    },
+    {
+      "title": "포스코 창사 58년 만에 첫 부분파업 [ESG 뉴스 5] — 다이제스트 헤드라인은 취업시장·AI와 무관",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false,
+      "importance": 0
+    }
+  ],
+  "insight_titles": [
+    "대졸 프리미엄 역전, 국내외에서 이틀 연속 재확인 — 비대졸 약진에 AI 지목",
+    "전체 고용률 63.3%로 역대 최고, 그러나 20대 실업률은 5.5%로 상승 — 세대별 양극화 심화",
+    "대기업 채용 갈림길 — 신한은행 자소서 전면 폐지·AI면접 통합 vs 삼성 70년 정기공채 고수",
+    "청년 고용정책 대상, 29세→34세로 법적 확대 시행",
+    "기아·GGM AI검증 채용, 영남이공대·LS증권 실무형 프로그램 — 지역 채용 접점 소규모 확산",
+    "美 '부메랑 직원' 증가 — 재입사 비중 3.4%로 상승, 국내 재고용 전략에 시사점"
+  ],
+  "continuity_notes": [
+    "9/9 회차(9/8 하루치) 최상위 인사이트였던 '美 20년 데이터가 확인한 학위 역전'이 이번 회차에도 최상위 클러스터로 재등장했다 — 당시 중앙일보(article/25460076)가 인용했던 호주·중국 통계가 오늘 중앙일보(article/25460199)에서 사실상 재인용되며 동일 서사가 이틀 연속 이어지고, 국내 매체(코리아타임스)까지 이 프레임으로 국내 상황을 짚기 시작해 일회성이 아닌 굳어지는 추세로 볼 근거가 쌓이고 있다.",
+    "9/9 회차의 'GGM·기아 하반기 채용문 활짝' 클러스터(1건)가 이번 회차에도 jndn.com의 신규 기사로 이어져, 완성차업계 지역 채용 확대가 일회성 보도가 아니라 지속되는 흐름임이 재확인됐다.",
+    "9/9 회차에 5개 매체가 동시 보도했던 '강남구 AI 마케팅 무료교육' 같은 대규모 지자체 리스킬링 프로그램은 이번 회차에는 등장하지 않았다(언급 급감) — 대신 LS증권(민간)·영남이공대(교육기관) 단위의 소규모 프로그램으로 화제의 무게중심이 이동했다.",
+    "'신한은행 자소서 폐지·AI면접 통합'과 '삼성 70년 정기공채 고수', '청년 고용정책 대상 29→34세 확대', '美 부메랑 직원 증가'는 모두 최근 회차 아카이브에 없었던 신규 등장 소식이다."
+  ],
+  "structure_note": "기간(9/9 00:00~9/10 00:00 KST, 수요일 하루치) 내 총 12건이 수집됐다. '포스코 창사 58년 만에 첫 부분파업' 기사 1건은 ESG 뉴스 다이제스트 형식으로 여러 헤드라인을 묶은 기사이며 헤드라인 자체가 취업시장·AI와 무관해 제외했다(excluded_off_topic=1). 나머지 6개 클러스터를 모두 인사이트로 채택했다(최소 기준 5개를 웃도는 6개, context_not_promoted=0, 억지 보강 없음). koreatimes.com(대졸/비대졸 역전), joongang.co.kr(호주·중국 통계), jndn.com(기아·GGM 채용), kukinews.com(영남이공대) 원문은 접근이 차단되어(503/403) 네이버 API의 제목·스니펫 범위 내에서만 사실을 서술했고, wikitree.co.kr·newspim.com·dailysmart.co.kr·jibs.co.kr·sedaily.com·digitaltoday.co.kr·dailian.co.kr 원문은 WebFetch로 확인해 반영했다."
+}
