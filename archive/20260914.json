@@ -1,0 +1,98 @@
+{
+  "keyword": "취업시장과 AI",
+  "sort": "date",
+  "period_start": "2026-09-11",
+  "period_end": "2026-09-14",
+  "total_collected": 15,
+  "excluded_off_topic": 0,
+  "context_not_promoted": 5,
+  "insight_count": 5,
+  "insight_count_minimum": 5,
+  "clusters": [
+    {
+      "title": "20대 청년 취업, 외환위기 후 최악 — 반도체 수출 훈풍과 정반대 흐름",
+      "article_count": 2,
+      "media_count": 2,
+      "is_insight": true,
+      "importance": 3
+    },
+    {
+      "title": "AI가 대졸 신입 채용문을 좁힌다 — 영국·미국 동시 보도",
+      "article_count": 2,
+      "media_count": 2,
+      "is_insight": true,
+      "importance": 3
+    },
+    {
+      "title": "SK하이닉스發 '하닉고시·취업N수' — KBS 추적60분 다큐 공론화",
+      "article_count": 3,
+      "media_count": 3,
+      "is_insight": true,
+      "importance": 2
+    },
+    {
+      "title": "하반기 대기업 공채 개막 — 삼성·효성·한국타이어, AI/반도체 직무 세분화",
+      "article_count": 2,
+      "media_count": 2,
+      "is_insight": true,
+      "importance": 2
+    },
+    {
+      "title": "서울시 '청년 AI 성장권' 예산 56억 전액 삭감",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 1
+    },
+    {
+      "title": "호남대 수시 흥행 (AI융합+보건 투트랙)",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false,
+      "importance": 0
+    },
+    {
+      "title": "예술 일자리 박람회 (AI 활용 지원)",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false,
+      "importance": 0
+    },
+    {
+      "title": "산업공학, AI·데이터 시대의 올라운더로 부상",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false,
+      "importance": 0
+    },
+    {
+      "title": "대만 반도체 공장, 전공 무관 채용 확대 (인재 가뭄)",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false,
+      "importance": 0
+    },
+    {
+      "title": "군 경력 20년차, AI 역량 추가해 증권사 재취업 성공 사례",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false,
+      "importance": 0
+    }
+  ],
+  "insight_titles": [
+    "20대 청년 취업, 외환위기 후 최악 수준으로 붕괴 — 반도체 수출 훈풍과 정반대 흐름",
+    "\"AI가 대졸 신입 자리를 지운다\" — 영국·미국·국내에서 3주 연속 재확인되는 서사",
+    "SK하이닉스發 '하닉고시·취업N수' — KBS 다큐로 공론화된 성과급 양극화",
+    "하반기 대기업 공채 개막 — 삼성·효성·한국타이어, AI·반도체 직무 세분화",
+    "서울시 '청년 AI 성장권' 예산 56억 전액 삭감 — \"AI 역량=채용 핵심 변수\" 진단과 엇박자"
+  ],
+  "continuity_notes": [
+    "9/8 회차('AI가 대체하는 초급업무 vs 부족한 숙련인력 — 한미 동시에 채용문턱 높아진다')와 9/9~9/10 회차('美 20년 데이터가 확인한 학위 역전', '대졸 프리미엄 역전')에 이어, 오늘 회차도 'AI가 대졸 신입을 대체한다'는 서사를 영국(HESA 통계)·미국(WSJ) 소스로 재확인했다 — 최소 3주 연속, 국가·매체를 바꿔가며 반복되는 흐름으로 굳어지고 있다.",
+    "9/10 회차의 '전체 고용률 63.3%로 역대 최고, 그러나 20대 실업률 5.5%로 상승 — 세대별 양극화' 클러스터가 오늘은 더 악화된 수치(20대 취업자 월평균 19.3만~11.4만명 감소, '외환위기 이후 최악')로 재등장했다 — 같은 주제가 회차를 거듭할수록 심화되는 양상이다.",
+    "SK하이닉스發 '하닉고시' 현상은 8/26~8/30 사이 아카이브에 SK하이닉스가 다른 맥락(AI가 대체 못하는 인문학적 통찰력 등)으로 잠깐 언급된 적은 있지만, 오늘처럼 KBS 다큐를 계기로 '취업N수·중고신입' 사회현상 자체가 3개 매체에서 동시 조명된 것은 최근 회차 아카이브에 없던 신규 등장이다.",
+    "9/10 회차의 '청년 고용정책 대상 29→34세 확대'(정책 확대) 흐름과 달리, 오늘 등장한 '서울시 청년 AI 성장권 예산 전액 삭감'은 정반대 방향(지자체 청년 AI 지원 축소)이어서, 청년 지원 정책이 중앙정부·지자체 간, 그리고 시점별로 엇갈리고 있음을 보여준다.",
+    "'하반기 대기업 공채 개막(삼성·효성·한국타이어)'은 매년 반복되는 계절적 이슈이나, 구체적 기업·일정은 이번 회차 아카이브에 신규로 등장했다."
+  ],
+  "structure_note": "기간(9/11 00:00~9/14 00:00 KST, 금요일부터 일요일까지 3일치) 내 총 15건이 수집됐다. 오프토픽으로 제외한 기사는 없다(excluded_off_topic=0). 상위 5개 클러스터(10건)를 모두 인사이트로 채택했고(최소 기준 5개 충족), 나머지 5건(호남대 수시, 예술 일자리 박람회, 산업공학, 대만 반도체 채용, 군 경력자 AI 재취업)은 모두 단일 매체 보도로 화제성이 낮고 원인·변화·함의 요건을 채우기 어려워 인사이트로 승격하지 않았다(context_not_promoted=5). 채택된 5개 클러스터의 originallink 원문은 모두 WebFetch로 직접 확인해 인용문·통계를 원문과 대조했으며, 접근이 차단된 원문은 없었다. ②번 클러스터의 컴퓨터공학 관련 통계는 국내가 아닌 영국 고등교육통계청(HESA) 조사 결과임을 별도로 명시했다."
+}
