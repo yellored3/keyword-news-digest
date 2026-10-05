@@ -1,0 +1,23 @@
+{
+  "keyword": "취업시장과 AI",
+  "sort": "date",
+  "period_start": "2026-10-05",
+  "period_end": "2026-10-06",
+  "total_collected": 1,
+  "excluded_off_topic": 0,
+  "context_not_promoted": 1,
+  "insight_count": 5,
+  "insight_count_minimum": 5,
+  "clusters": [
+    {
+      "title": "[김성재 칼럼] 코넬대 집단 성폭행 사건, 대학의 미래에 어떤 메시지를... (칼럼 본문 중 AI·취업시장 위기감을 지나가듯 언급, 구체적 근거 없음)",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false,
+      "importance": 0
+    }
+  ],
+  "insight_titles": [],
+  "continuity_notes": [],
+  "structure_note": "기간(10/5(월) 00:00~10/6(화) 00:00 KST, 하루치) 내 총 1건만 수집됐다(excluded_off_topic=0). 유일한 기사는 코넬대 사교클럽 집단성폭행 사건을 다룬 칼럼으로, WebFetch로 원문을 직접 확인한 결과 '취업시장과 AI'는 글의 핵심 소재가 아니라 논지를 보강하기 위해 지나가듯 언급된 소재(\"AI 기능이 나날이 높아지면서 취업시장에 대한 위기감도 커지고 있다\", 채용 시 \"알고리즘을 통한 온라인 인터뷰\" 활용)에 불과했다. 원인·변화·함의 중 어느 것도 수치·조사·구체적 사례로 뒷받침되지 않아 인사이트로 승격하지 않았다(context_not_promoted=1). 최소 인사이트 기준(5개)에 크게 못 미치지만 이는 해당일 수집 근거 자체가 부족했기 때문이며, 억지로 다른 소재를 끌어오거나 사실 나열을 인사이트로 포장하지 않았다."
+}
