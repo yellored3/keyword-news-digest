@@ -1,0 +1,40 @@
+{
+  "keyword": "취업시장과 AI",
+  "sort": "date",
+  "period_start": "2026-10-06",
+  "period_end": "2026-10-07",
+  "total_collected": 3,
+  "excluded_off_topic": 0,
+  "context_not_promoted": 1,
+  "insight_count": 2,
+  "insight_count_minimum": 5,
+  "clusters": [
+    {
+      "title": "서울시 '청년 AI 사다리' 사업, 추경 심의서 56억 2,500만원 전액 삭감 — 사실상 백지화",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 2
+    },
+    {
+      "title": "K뷰티 채용문 확대 속, AI·로봇 전문인력 수요가 전통 제조업까지 확산",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 1
+    },
+    {
+      "title": "에듀테크 '윈드폴리' 인터뷰 — 대입 컨설팅 AI 솔루션, 취업 매칭은 미실현 확장 계획 한 줄뿐",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false,
+      "importance": 0
+    }
+  ],
+  "insight_titles": [
+    "서울시 '청년 AI 사다리' 사업, 추경 심의서 56억 2,500만원 전액 삭감 — 사실상 백지화",
+    "K뷰티 채용문 확대 속, AI·로봇 전문인력 수요가 전통 제조업까지 확산"
+  ],
+  "continuity_notes": [],
+  "structure_note": "기간(10/6(화) 00:00~10/7(수) 00:00 KST, 하루치) 내 총 3건만 수집됐다(excluded_off_topic=0). 전부 매체 1곳뿐인 단신이라 3개 매체 기준의 클러스터는 없었으나 수집량이 적어 3건 전수를 WebFetch로 원문 대조했다. ①서울시 청년 AI 사다리 예산 전액삭감(56.25억원, 구체적 금액·의원 발언·2027년 재추진 계획 확인), ②K뷰티 채용 확대 속 코스맥스·한국콜마의 AI·로봇 전문인력 채용 확산(구체적 배수·사례 확인)은 원인/변화/함의 요건을 충족해 인사이트로 승격했다. ③윈드폴리 에듀테크 인터뷰는 원문 전체가 '대입·진로 컨설팅 AI 솔루션'을 다루고 있었고 '취업시장과 AI' 관련 내용은 '향후 취업 매칭까지 확대한다'는 미실현 계획 한 줄뿐이어서 인사이트로 승격하지 않았다(context_not_promoted=1). 최소 인사이트 기준(5개)에 크게 못 미치는 2건만 발행하는데, 이는 해당일 수집 근거 자체가 부족했기 때문이며 억지로 다른 소재를 끌어오거나 사실 나열을 인사이트로 포장하지 않았다. 직전 회차(20261006.json, 10/5 하루치, 0건)와 10/1 회차(20261001.json) 아카이브를 대조했으나 오늘 수집된 3건과 직접 이어지는 '신규 등장'·'언급 급감' 흐름은 확인되지 않았다."
+}
