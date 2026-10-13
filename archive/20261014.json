@@ -1,0 +1,81 @@
+{
+  "keyword": "취업시장과 AI",
+  "sort": "date",
+  "period_start": "2026-10-13",
+  "period_end": "2026-10-14",
+  "total_collected": 8,
+  "excluded_off_topic": 3,
+  "context_not_promoted": 1,
+  "insight_count": 4,
+  "insight_count_minimum": 5,
+  "clusters": [
+    {
+      "title": "중국 청년실업 19%, AI가 초급직 채용까지 압박(WSJ 인용, 상하이테크대 구인공고 7억건 분석)",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 3
+    },
+    {
+      "title": "링크드인, 美 고용둔화발 '경제적 기회 아카데미'(창업학교) 신설 — AI 활용 요구 공고 70%↑",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 2
+    },
+    {
+      "title": "AI가 낮춘 창업장벽 — 美 Z세대 '솔로프리너' 열풍, 6월 신규사업자 등록 증가율 전세대 1위",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 2
+    },
+    {
+      "title": "일반고 특화훈련 직종 편중 61.2%(미용·제과·음식서비스), AI 과정 0.3%뿐 — 이철규 의원 지적",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 3
+    },
+    {
+      "title": "경복대, 경기북부 AI·디지털 거점센터 개소 후속보도 — 10/13자 회차에서 이미 승격된 동일 사건",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false,
+      "importance": 0
+    },
+    {
+      "title": "장애인 고용 정책 묶음기사 — AI·디지털 튜터 협약은 5개 꼭지 중 1개 언급에 그침",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false,
+      "importance": 0
+    },
+    {
+      "title": "KDI 10월 경제동향 — AI는 수출·투자 설명 배경 언급일 뿐, 고용 분석 없음",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false,
+      "importance": 0
+    },
+    {
+      "title": "예능 '영크크는 출근 중' 이미주 직업계고 소개 — 방송 홍보성, AI 취업영향 분석 없음",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false,
+      "importance": 0
+    }
+  ],
+  "insight_titles": [
+    "중국 청년실업률 19%, AI가 초급직 채용 문부터 잠근다 — 경력 1~3년 구간이 가장 먼저 사라진다",
+    "美 고용 둔화에 링크드인 '창업학교' 신설 — AI 활용 요구 공고 1년새 70%↑",
+    "AI가 낮춘 창업장벽, 美 Z세대 '1인 창업' 열풍 — 6월 신규사업자 등록 증가율 전세대 1위",
+    "청년 조기취업 특화훈련 61.2%가 미용·제과·음식서비스 — AI 과정은 0.3%뿐"
+  ],
+  "continuity_notes": [
+    "경복대 경기북부 AI·디지털 거점센터 개소 기사(cstimes, 10/13 05:56 발행)는 직전 10/13자 회차(archive/20261013.json)가 동일 개소 행사를 5건/5매체로 이미 인사이트로 승격한 사건의 하루 지연 후속보도로 확인돼, 신규 인사이트로 재승격하지 않았다.",
+    "이미주 직업계고 출신 소재(mediafine)는 10/13자 회차에서도 동일 인물·동일 방송 홍보 소재(3건)가 오프토픽으로 제외된 바 있으며, 오늘 기사 역시 AI의 취업시장 영향에 대한 분석이 없어 같은 사유로 재차 제외했다.",
+    "오늘 수집된 8건 중 중국 청년실업(newsis), 링크드인 창업학교(fortunekorea), 美 대학생 AI 창업열풍(koreadaily), 일반고 특화훈련 직종편중(ajunews) 4건은 아카이브 전체(2026-08-13~2026-10-13) 대조 결과 이전 회차에 등장한 적 없는 신규 소재다."
+  ],
+  "structure_note": "기간(10/13(화) 00:00~10/14(수) 00:00 KST, 하루치) 내 총 8건이 수집됐다. 건수가 적어 사건 단위로 묶어도 다건 클러스터가 형성되지 않아 8개 클러스터 모두 1건/1매체로 구성됐다. 전체 건수가 적어 8건 모두 WebFetch로 원문을 확인해 승격 여부를 판단했다(전수 조사하지 않는다는 원칙의 예외는 '유력 후보가 적어 전수 확인이 합리적인 경우'에 해당). ①중국 청년실업, ②링크드인 창업학교, ③美 대학생 AI 창업열풍, ④일반고 특화훈련 직종편중 4건은 원문 대조 결과 원인·변화·함의 요건을 모두 충족해 인사이트로 승격했다(①④는 importance 3, ②③는 importance 2). ⑤경복대 거점센터 기사는 10/13자 회차에서 이미 동일 사건이 5건/5매체로 승격돼 있어 재승격하지 않았다(context_not_promoted=1). ⑥장애인 고용 정책 묶음기사는 AI·디지털 튜터 협약이 5개 꼭지 중 1개로만 언급돼 취업시장과 AI 전반을 다루지 않아 오프토픽 제외했고, ⑦KDI 경제동향은 AI가 수출·설비투자의 배경으로만 쓰이고 고용 분석이 없어 제외했으며, ⑧이미주 출연 예능 홍보는 10/13자 회차와 동일한 사유(AI 취업영향 분석 부재)로 제외했다(excluded_off_topic=3). 매체 수가 적다는 이유만으로 억지로 쪼개거나 요건 미충족·중복 클러스터를 승격시켜 숫자를 채우지 않아 insight_count는 4건으로 최소 기준(5개)에 못 미친다."
+}
