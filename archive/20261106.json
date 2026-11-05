@@ -1,0 +1,85 @@
+{
+  "keyword": "취업시장과 AI",
+  "sort": "date",
+  "period_start": "2026-11-05",
+  "period_end": "2026-11-06",
+  "total_collected": 9,
+  "excluded_off_topic": 1,
+  "context_not_promoted": 2,
+  "insight_count": 5,
+  "insight_count_minimum": 5,
+  "clusters": [
+    {
+      "title": "중국-목포 고향사랑기부 교류 (주제 무관)",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false,
+      "importance": 0,
+      "excluded_off_topic": true
+    },
+    {
+      "title": "“사무실보다 공장이 낫죠” 취준생 1위 직무, IT 제치고 생산·현장직으로 (Z세대 선호도 설문 500명, AI發 사무직대체 우려가 원인으로 제시)",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 2
+    },
+    {
+      "title": "성신여대, MS 정보보안 과정 무료운영 (교육내용은 AI가 아닌 보안 중심, AI연결고리는 서류전형 면제 혜택 한 줄뿐)",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false,
+      "importance": 0
+    },
+    {
+      "title": "日 미스미그룹, 대졸·고졸 초봉 통일 (AI가 신입 자료작성·정보수집 업무 대체하며 학력보다 역량 중시)",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 2
+    },
+    {
+      "title": "대구시교육청, 2026 직업계고 취업률 68.7% 2년연속 전국1위 (지역 홍보성, AI 언급 없음)",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false,
+      "importance": 0
+    },
+    {
+      "title": "청년 '쉬었음' 감소·고용질 악화 (8월 통계, 실업·비자발적창업 증가, AI·로봇 확산이 요인 중 하나로 거론)",
+      "article_count": 2,
+      "media_count": 2,
+      "is_insight": true,
+      "importance": 3
+    },
+    {
+      "title": "AI 면접서 영어 억양에 따라 점수 차등 (미국·영국식 억양 우대, 아시아·아프리카식 억양 불리)",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 3
+    },
+    {
+      "title": "2026 하반기 캐나다 토론토 취업박람회 (KOTRA, AI 활용계획·금융권 사이버리스크 역량·온타리오 AI채용평가 공개의무화 언급)",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 2
+    }
+  ],
+  "insight_titles": [
+    "'쉬었음' 청년 줄었지만…실업·비자발적 창업으로 내몰린다",
+    "AI 면접서 똑같이 답변해도…영어 억양 따라 점수 갈렸다",
+    "“사무실보다 공장이 낫죠” 취준생 1위 직무, IT 제치고 생산·현장직으로",
+    "日 미스미그룹, 대졸·고졸 초봉 통일…\"AI가 신입 업무 대신하면서\"",
+    "캐나다 토론토 구직시장, AI 활용·채용 규제가 조건으로 명문화"
+  ],
+  "continuity_notes": [
+    "청년 '쉬었음'·청년고용률 테마는 11/4~11/5 다이제스트에서도 다룬 동일 8월 통계가 이번 회차(와이드데일리·뉴시스)에서 비자발적 창업·자영업 급증이라는 새 각도로 재조명됐다 — 연속 이슈.",
+    "AI 면접의 언어·인종(억양) 편향 문제가 신규 등장했다 — 이전 회차에는 없던 AI 채용의 공정성/윤리 축.",
+    "해외(캐나다) 구직시장에서 AI 활용계획·AI채용평가 공개의무화(온타리오) 사례가 신규 등장했다 — 국내 중심이던 이전 회차와 달리 해외 규제동향이 처음 포함됐다.",
+    "일본 미스미그룹의 학력무관 채용(AI가 신입 정형업무 대체) 사례가 신규 등장했다 — 글로벌 HR 트렌드 축.",
+    "11/4~11/5 회차에서 다룬 정년연장 논의, 유통업계 AI 채용 공식(롯데·CJ올리브영), 구글 제미나이 아카데미의 후속 보도는 이번 기간에는 확인되지 않아 공백이 이어진다."
+  ],
+  "structure_note": "기간(11/5(목) 00:00~11/6(금) 00:00 KST, 하루치) 내 총 9건이 수집됐다. 매체 3개 이상을 동시에 다룬 화제성 높은 클러스터는 없었고, 8개 클러스터 중 1건(목포-중국 교류)은 주제와 무관해 excluded_off_topic으로 분류했다. 성신여대 MS 보안과정(AI 연결고리가 서류전형 면제 한 줄뿐)과 대구시교육청 직업계고 취업률(AI 언급 없음, 지역 홍보성) 2건은 원인/변화/함의를 AI와 결부해 제시하기 어려워 승격하지 않았다(context_not_promoted). 나머지 5개 클러스터(쉬었음 청년고용 2건 통합, AI면접 억양편향, 공장선호 변화, 일본 초봉통일, 캐나다 취업박람회)는 WebFetch 원문 대조로 원인·변화·함의 중 최소 1개 이상을 확인해 전부 인사이트로 선정했다(insight_count_minimum 5 충족, 근거부족 예외 미적용). AI면접 억양편향(조선일보)은 원문 접속이 차단돼 NAVER 검색 결과의 제목·발췌 설명 범위 내에서만 내용을 검증했고, 연구기관명·표본수·구체적 점수차는 본문에 포함하지 않았다."
+}
