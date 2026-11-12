@@ -1,0 +1,52 @@
+{
+  "keyword": "취업시장과 AI",
+  "sort": "date",
+  "period_start": "2026-11-12",
+  "period_end": "2026-11-12",
+  "total_collected": 4,
+  "excluded_off_topic": 1,
+  "context_not_promoted": 0,
+  "insight_count": 3,
+  "insight_count_minimum": 5,
+  "shortage_reason": "수집된 4건이 모두 대학·지자체의 취업교육·인턴십 프로그램 소식이며, 전일까지 이어지던 청년고용 통계·AI발 고용충격·대기업 채용 등 거시 지표성 기사가 확인되지 않아 최소 기준(5건)에 못 미치는 3건만 채택함",
+  "clusters": [
+    {
+      "title": "SeSAC 구로 'AI 활용 프로덕트 마케터' 양성 3기 모집",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 2
+    },
+    {
+      "title": "지자체 청년 인턴십에 AI·공공데이터 분석 직무 신설 ('청년특별시' 선언)",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 1
+    },
+    {
+      "title": "신라대 저학년 취창업 영재단 프로그램 마무리",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": true,
+      "importance": 1
+    },
+    {
+      "title": "경성대 태국 해외취업연수 과정 운영 (AI는 축사에서만 언급)",
+      "article_count": 1,
+      "media_count": 1,
+      "is_insight": false,
+      "importance": 0
+    }
+  ],
+  "insight_titles": [
+    "생성형 AI發 마케팅 직무 재편 — SeSAC 구로 'AI 활용 프로덕트 마케터' 양성 3기 모집",
+    "지자체 청년 인턴십에 'AI·공공데이터 분석' 직무 신설 — '청년특별시' 선언 지자체 사례",
+    "대학 저학년 취업역량 교육에 AI·디지털 도구 활용이 보조 커리큘럼으로 편입 — 신라대 사례"
+  ],
+  "continuity_notes": [
+    "전일(11/12 회차, 11/11 하루치)의 '청년고용률 30개월 연속 하락·AI 고노출 업종 94% 쏠림', '美 선행사례 AI고용충격', 'SK하이닉스 생산직 공채', '정부 청년고용 대책', '희망리턴패키지 재취업교육' 5개 축 모두 이번 기간에는 확인되지 않아 거시 지표성 뉴스 흐름이 단절됐다.",
+    "대학·지자체 단위의 소규모 취업교육·인턴십 프로그램 소식(SeSAC AI 마케터 과정, 청년특별시 인턴십, 신라대 영재단)은 모두 신규 등장이다."
+  ],
+  "structure_note": "기간(11/12(목) 00:00~11/13(금) 00:00 KST, 11/12 하루치) 내 총 4건이 수집됐다. 경성대 태국 해외취업연수 기사는 AI가 축사에서 한 차례 언급되는 수준에 그쳐 원인·변화·함의를 구성할 근거가 부족해 인사이트에서 제외했다(excluded_off_topic). 나머지 3건은 모두 단일 매체 보도지만 WebFetch 원문 대조 결과 AI가 채용기준·업무구성·교육커리큘럼 변화의 구체적 맥락으로 언급돼 인사이트로 채택했다. 다만 '청년특별시' 지자체 인턴십 기사는 매체 접속 제한(joongang.co.kr, n.news.naver.com)으로 네이버 검색 API 발췌문만으로 검증했으며 지자체명은 확인하지 못했다."
+}
